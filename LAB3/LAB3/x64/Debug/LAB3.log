@@ -1,0 +1,31 @@
+﻿  Maine.cpp
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(8,1): error C2011: Point: переопределение типа "class"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(78,8): error C2079: "Rectangle::Center" использует не имеющую определения структуру class "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(69,11): error C2027: использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(57,7): error C2027: использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(58,12): error C2027: использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(67,1): error C2440: return: невозможно преобразовать "int *" в "Point *"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(67,10): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(69,2): error C2027: использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(70,1): error C2664: "void Rectangle::SetPoint(Point)": невозможно преобразовать аргумент 1 из "Point" в "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(70,1): message : использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8,7): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rectangle.h(57,7): message : см. объявление "Rectangle::SetPoint"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\SongAlbum.h(185,67): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(175,9): error C2079: "cent" использует не имеющую определения структуру class "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(175,21): error C2027: использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(176,62): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "Rectangle"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(176,62): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(182,35): error C2027: использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(183,35): error C2027: использование неопределенного типа "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Rings.h(8): message : см. объявление "Point"
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(230,17): warning C4154: удаление массива; выполнено преобразование к указателю
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(231,17): warning C4154: удаление массива; выполнено преобразование к указателю
+C:\Users\Не кит\Desktop\ООП\LAB3\LAB3\Maine.cpp(235,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
